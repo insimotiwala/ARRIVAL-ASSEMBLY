@@ -49,7 +49,7 @@ NavMeshProjectSettings:
     cost: 1
   - name: amrs
     cost: 1
-  - name: 
+  - name: VRAMP
     cost: 1
   - name: 
     cost: 1
